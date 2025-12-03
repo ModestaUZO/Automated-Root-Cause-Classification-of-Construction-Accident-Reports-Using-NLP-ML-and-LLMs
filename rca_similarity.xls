@@ -1,0 +1,9 @@
+report_id,sim_rule_llm,sim_ml_llm,sim_rule_ml,true_root,llm_root,rule_root,ml_root
+1,0.21079957485198975,0.1658693104982376,0.5316094160079956,Housekeeping Failure,PPE Non-Compliance,Housekeeping Failure,Engineering Control Failure
+2,0.2308638095855713,0.1658693104982376,0.6319893598556519,Communication Failure,PPE Non-Compliance,Communication Failure,Engineering Control Failure
+3,0.22518670558929443,0.21505926549434662,0.9022217988967896,Procedural Failure,PPE Non-Compliance,Procedural Failure,Procedural Failure
+4,0.19925619661808014,0.1658693104982376,0.9410840272903442,Engineering Control Failure,PPE Non-Compliance,Engineering Control Failure,Engineering Control Failure
+5,0.20993025600910187,0.1915353387594223,0.9341251850128174,Supervision Failure,PPE Non-Compliance,Supervision Failure,Supervision Failure
+6,0.19925619661808014,0.1658693104982376,0.9410840272903442,PPE Non-Compliance,PPE Non-Compliance,Engineering Control Failure,Engineering Control Failure
+7,0.22642268240451813,0.18853896856307983,0.9613284468650818,PPE Provision Failure,PPE Non-Compliance,PPE Provision Failure,PPE Provision Failure
+8,0.19925619661808014,0.1658693104982376,0.9410840272903442,Engineering Control Failure,PPE Non-Compliance,Engineering Control Failure,Engineering Control Failure
